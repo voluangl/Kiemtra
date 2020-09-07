@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>kiem tra</title>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="02072020.css">
+</head>
+<body>
+		<div class="container p-3 my-3 text-white">
+			<div class="row">
+				<div class="col-sm-6 bg-warning">
+					<h4> &emsp;&emsp;THE LAREST TAXI SERVICES</h4>
+					<h1 style="font-size: 60px;"> &emsp;CITY TAXI</h1>
+					<h3> &emsp;&emsp;COMPANY</h3>
+					<div class="input-group-append">
+					  &ensp;&emsp;&emsp; <button class=" btn-dark " type="button">WHAT DO YOU?</button>
+					 					 <button class="btn-light text-dark" type="button">JOIN US</button>
+
+				 	 </div>
+				 	  <br><br>
+				</div>
+				<div class="col-sm-6 bg-warning">
+					<img src="https://www.pngonly.com/wp-content/uploads/2017/06/file-taxi-png-10210.png" alt="Cinque Terre" width="300" height="200"> 
+				</div>
+			</div>
+			<div class="row" style="text-align: center">
+				<div class="col-sm-4 bg-dark" >
+					<h3><br>REPAIRS</h3>
+					<i class='fas fa-tools' style="font-size:24px;color:yellow"></i>
+					<h6 style="color:yellow">It long established</h6>
+					<p style="font-size: 10px; color:gray">Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>
+					<h5>MORE</h5>
+				</div>
+				<div class="col-sm-4 bg-dark" >
+					<h3><br>SPARES</h3>
+					<i class="fa fa-gears" style="font-size:24px;color:yellow"></i>
+					<h6 style="color:yellow">It long established</h6>
+					<p style="font-size: 10px; color:gray">Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>
+					<h5>MORE</h5>
+				</div>
+				<div class="col-sm-4 bg-dark" >
+					<h3><br>SALES</h3>
+					<i class='fas fa-shopping-cart' style="font-size:24px;color:yellow"></i>
+					<h6 style="color:yellow">It long established</h6>
+					<p style="font-size: 10px; color:gray">Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>
+					<h5>MORE</h5>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<hr width="80px"  size ="10px"  align="center"  color="yellow" />
+			<h3 style="text-align: center">POPILAR SERVICE</h3>
+			<h6 style="text-align: center">Service Is Our Attitude, And Attitude Is Everything</h6>
+			<div class="row" style="text-align: center">
+				<div class="col-sm-3">
+					<img class="img-fluid" src="https://miro.medium.com/max/1000/0*3DbpoimSzz-2ucde" alt="Chania" width="200px" height="100px" style="border: 5px solid #fbff00;">
+					<h4>CALL ON TAXI</h4>
+					<hr width="20%" size="5px"  align="center"  color="yellow"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>	
+					<button type="button"   class="btn btn-warning" ><h4>BOOK NOW</h4></button>
+				</div>
+				<div class="col-sm-3">
+					<img class="img-fluid" src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F46e73f80-98b3-11e7-8c5c-c8d8fa6961bb?source=google-amp&fit=scale-down&width=500" alt="Chania" width="200px" height="100px" style="border: 5px solid #fbff00;">
+					<h4>AIRPORT TRANSFER</h4>
+					<hr width="20%" size="5px"  align="center"  color="yellow"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>
+					<button type="button"   class="btn btn-warning" ><h4>BOOK NOW</h4></button>
+				</div>
+				<div class="col-sm-3">
+					<img class="img-fluid" src="https://gocurb.com/wp-content/uploads/2018/07/case-studies_taxi-media_united2.jpg" alt="Chania" width="200px" height="100px" style="border: 5px solid #fbff00;">
+					<h4>ACCESSIBLE TAXI</h4>
+					<hr width="20%" size="5px"  align="center"  color="yellow"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>
+					<button type="button"   class="btn btn-warning" ><h4>BOOK NOW</h4></button>
+				</div>
+				<div class="col-sm-3">
+					<img class="img-fluid" src="https://imgs.6sqft.com/wp-content/uploads/2015/03/21004345/NYC_Taxi.jpg" alt="Chania" width="200px" height="100px" style="border: 5px solid #fbff00;">
+					<h4>SKILLER DRIVER</h4>
+					<hr width="20%" size="5px"  align="center"  color="yellow"/>
+					<p>Lorem ipsum dolor sit amet, consectetur adipscing elit.Integer adipscing erat eget riscus.</p>
+					<button type="button"   class="btn btn-warning" ><h4>BOOK NOW</h4></button>
+				</div>
+			</div>
+		</div>
+		<br>
+		<br>
+		<div class="container">
+			
+				<hr width="80px"  size ="10px"  align="center"  color="yellow" />
+				<h3 style="text-align: center">CITY PRICING</h3>
+				<h6 style="text-align: center">Our Price Range Is Within Reach</h6>
+			<div class="row" style="text-align: center">	
+				<div class="col-sm-3" >
+					<img src="https://teli.asso.fr/photos/contenus/zooms/nyc_1784_fr.png" alt="Cinque Terre" width="250" height="150"> 
+
+					<div style= "border: 2px solid #d2d2cb;">
+						<br>
+						<h4>NEW YORK CITY</h4>
+						<br>
+						<hr width="100%" size="5px"  color="gray"/>
+						<p style="text-align: left">&emsp; HOURLY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $30</p>
+						<p style= "text-align: left">&emsp; WHOLE DAY &emsp;&emsp;&emsp;&emsp;&emsp; $500</p>
+						<hr width="100%" size="5px"  color="gray"/>
+						<button type="button"   class="btn btn-dark" ><h4>READ MORE</h4></button>
+						<br>
+						<br>
+					</div>
+						
+				
+					
+				</div>
+				<div class="col-sm-3">
+					<img src="https://www.mercurynews.com/wp-content/uploads/2018/10/San-Francisco-2-2.jpg" alt="Cinque Terre" width="250" height="150"> 	
+					<div style= "border: 2px solid #d2d2cb;">
+						<br>
+						<h4> SAN FRANCISCO</h4>
+						<br>
+						<hr width="100%" size="5px"  color="gray"/>
+						<p style="text-align: left">&emsp; HOURLY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $30</p>
+						<p style= "text-align: left">&emsp; WHOLE DAY &emsp;&emsp;&emsp;&emsp;&emsp; $500</p>
+						<hr width="100%" size="5px"  color="gray"/>
+						<button type="button"   class="btn btn-dark" ><h4>READ MORE</h4></button>
+						<br>
+						<br>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<img src="https://media.timeout.com/images/105550552/image.jpg"  alt="Cinque Terre" width="250" height="150"> 
+					<div style= "border: 2px solid #d2d2cb;">
+						<br>
+						<h4>LOS ANGERLES</h4>
+						<br>
+						<hr width="100%" size="5px"  color="gray"/>
+						<p style="text-align: left">&emsp; HOURLY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $30</p>
+						<p style= "text-align: left">&emsp; WHOLE DAY &emsp;&emsp;&emsp;&emsp;&emsp; $500</p>
+						<hr width="100%" size="5px"  color="gray"/>
+						<button type="button"   class="btn btn-dark" ><h4>READ MORE</h4></button>
+						<br>
+						<br>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<img src="https://chinasouthernair.vn/wp-content/uploads/thong-tin-can-biet-khi-du-lich-washington-dc.jpg"  alt="Cinque Terre" width="250" height="150"> 
+					<div style= "border: 2px solid #d2d2cb;">
+						<br>
+						<h4>WASHINGTON DC</h4>
+						<br>
+						<hr width="100%" size="5px"  color="gray"/>
+						<p style="text-align: left">&emsp; HOURLY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $30</p>
+						<p style= "text-align: left">&emsp; WHOLE DAY &emsp;&emsp;&emsp;&emsp;&emsp; $500</p>
+						<hr width="100%" size="5px"  color="gray"/>
+						<button type="button"   class="btn btn-dark" ><h4>READ MORE</h4></button>
+						<br>
+						<br>
+					</div>
+				</div>
+			</div>
+				
+		</div>
+		<div class="container p-3 my-3 bg-warning text-white">
+			<div class="row" style="text-align: left">
+				<div class="col-sm-6">
+					<P> &emsp;&emsp;Copyight (C) 2018 By H.D.Linh-CNTT-UDA</P>
+				</div>
+				<div class="col-sm-6">
+					<p>&emsp;&emsp;&emsp;Team name:.............................................</p>
+				</div>
+			</div>
+		</div>	
+		<style>
+		.btn{
+			color: white;
+			text-align: center;
+			width: 180px;
+			height: 50px;
+			border-top-left-radius: 70px;
+            border-bottom-left-radius: 70px;
+            border-top-right-radius: 100px;
+		}	
+		
+		</style>
+</body>
+</html>
