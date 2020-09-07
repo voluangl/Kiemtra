@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>kiem tra</title>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="02072020.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Zilla Slab">
+</head> 
+<body>
+	<div class="container">
+		<div style="background-image: url('https://img.lovepik.com/photo/50090/3235.jpg_wh860.jpg'); background-repeat: no-repeat;background-size: cover;">	
+			<div class="row">
+				<div class="col-sm-3" style="text-align: center">
+					<h1 style="color:white; ">CT15A1.XX</h1>
+	     			<h3 style="color: #02e602;">ĐỀ 01</h3>
+				</div>
+				<div class="col-sm-9">
+					<ul>
+			            </li>
+			              <li class="nav-item dropdown" style=" float: left">
+			              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" style="color: #02e602">HOME</a>
+			              <div class="dropdown-menu">
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			              </div>
+			            </li>
+			            <li class="nav-item dropdown" style="float: left;">
+			              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" style="color: white">ABOUT</a>
+			              <div class="dropdown-menu">
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			              </div> 
+			            </li>
+			            <li class="nav-item dropdown" style="float: left;">
+			              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" style="color: white">MENU</a>
+			              <div class="dropdown-menu">
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			              </div> 
+			            </li> 
+			            <li class="nav-item" style=" float: left">
+			              <a class="nav-link" href="#" style="color: white">GALLERY</a>
+			            </li>
+			            <li class="nav-item" style=" float: left">
+			              <a class="nav-link" href="#" style="color: white">RESERVATION</a>
+			            </li>
+			            <li class="nav-item dropdown" style="float: left;">
+			              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" style="color: white">BLOG</a>
+			              <div class="dropdown-menu">
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			              </div> 
+			            </li>        
+			             <li class="nav-item dropdown" style="float: left;">
+			              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" style="color: white">MORE</a>
+			              <div class="dropdown-menu">
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			                <a class="dropdown-item" href="#">-</a>
+			              </div> 
+			            </li>                
+	      			</ul>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<div class="container" style="text-align: center;color: white " >
+		<div style="background-image: url('https://cdn.tgdd.vn/Files/2018/03/01/1070696/cach-ket-hop-ruou-vang-va-mon-an-dung-dieu9.jpg'); background-repeat: no-repeat;background-size: cover;background-position: center;">	
+				<br>
+				<br>
+				<h1 style="font-weight: bold;">Welcome to the <br> Mizrahi Restaurant</h1>
+				<h6 >The best Kosher food restaurantin Whashington, DC </h6>			 
+				<p>Book online or call (555)123-4567</p>
+				<button type="button" class="btn btn-success">BOOK NOW</button>
+			 	<br>
+			 	<br>
+		</div>	
+	<div class="container p-3 my-3 " style="text-align: center;">
+		<h1>OUR RESTAURANT AWARDS</h1>
+		<div class="row">
+			<div class="col-lg-3">
+				 <img class="img-fluid" src="https://www.arubalagunita.com/wp-content/uploads/2015/06/TripAdvisor-Travelers-choice-2015-300x229.png" alt="Chania" width= "200"; height="150"> 
+				 <h4>Judgement of Paris</h4>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <p  class="text-secondary">2014</p>
+			</div>
+			<div class="col-lg-3">
+				 <img class="img-fluid" src="https://www.ericsrestaurant.co.uk/media/34628/DC_Logo.png" alt="Chania" width= "155"; height="150" style="filter: hue-rotate(340deg)"> 
+				 <h4>Great Chardonnay</h4>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <p  class="text-secondary">2014</p>
+			</div>
+			<div class="col-lg-3">
+				 <img class="img-fluid" src="https://www.shoryuramen.com/assets/shoryu/client/specials/diykits2020/michelin_logo-d2b4d522350bd5d663da3a1eedafdd401142806f676c01ab62281fb32fa5778a.png" alt="Chania" width= "155"; height="100" style="filter: hue-rotate(340deg)"> 
+				 <h4>Michelin Guide</h4>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <p  class="text-secondary">2014</p>
+			</div>
+			<div class="col-lg-3">
+				 <img class="img-fluid" src="https://www.searsportcafe.com/wp-content/uploads/2020/08/love-us-on-yelp.jpg" alt="Chania" width= "155"; height="100" style="filter: hue-rotate(320deg)"> 
+				 <h4>La Liste</h4>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <i class="fa fa-star" style="font-size:18px; color: yellow;"></i>
+				 <p  class="text-secondary">2014</p>
+			</div>
+		</div>
+	</div>
+		<div class="container p-3 my-3 btn-light text:dark" >
+		<h1>CHEF RECOMMENDS</h1>
+		<div class="row">
+			<div class="col-sm-3"style="text-align: left;">
+				<div style="background-image: url('https://i.pinimg.com/originals/e0/fa/a4/e0faa413da9568625d5ffa490f20ec50.jpg'); background-repeat: no-repeat;background-size: cover; height: 300px">
+					<br>
+					<button type="button" class="btn btn-success">CHEF SPECIAL</button>
+				</div>	
+				<table bgcolor="white" width="100%;">
+					<tr><td>
+						<p style="text-align: center;"><br>Israeli Sampler Plate</p>
+						<h3 style="font-family: Zilla Slab;font-size: 34px;text-align: center">$18.00</h3>
+					</td></tr>	
+				</table>	
+			</div>
+			<div class="col-sm-3" style="text-align: left;">
+				<div style="background-image: url('https://cdn.huongnghiepaau.com/wp-content/uploads/2018/11/a6cc10b270d60e07120c524bef4e58db.jpg'); background-repeat: no-repeat;background-size: cover; height: 300px;background-position: right">
+					<br>
+					<button type="button" class="btn btn-success">CHEF SPECIAL</button>
+				</div>
+				<table bgcolor="white" width="100%;">
+					<tr><td>
+						<p style="text-align: center;"><br>Israeli Sampler Plate</p>
+						<h3 style="font-family: Zilla Slab;font-size: 34px;text-align: center">$34.00</h3>
+					</td></tr>	
+				</table>
+			</div>
+			<div class="col-sm-3" style="text-align: left;">
+				<div style="background-image: url('https://znews-photo.zadn.vn/w660/Uploaded/kbd_bcvi/2020_06_27/116916312_115410560089207_1339997271330696611_n.jpg'); background-repeat: no-repeat;background-size: cover; height: 300px">
+					<br>
+					<button type="button" class="btn btn-success">CHEF SPECIAL</button>
+				</div>
+				<table bgcolor="white" width="100%;">
+					<tr><td>
+						<p style="text-align: center;"><br>Israeli Sampler Plate</p>
+						<h3 style="font-family: Zilla Slab;font-size: 34px;text-align: center">$23.00</h3>
+					</td></tr>	
+				</table>				
+			</div>
+			<div class="col-sm-3"style="text-align: left;">
+				<div style="background-image: url('https://2.bp.blogspot.com/-4hLHCE50gvE/UsImIKrrlcI/AAAAAAAAFsg/-oLBjx0uXFQ/s1600/VietnameseBaguettes.jpg'); background-repeat: no-repeat;background-size: cover; height: 300px">
+					<br>
+					<button type="button" class="btn btn-success">CHEF SPECIAL</button>
+				</div>
+				<table bgcolor="white" width="100%;">
+					<tr><td>
+						<p style="text-align: center;"><br>Israeli Sampler Plate</p>
+						<h3 style="font-family: Zilla Slab;font-size: 34px;text-align: center">$34.00</h3>
+					</td></tr>	
+				</table>	
+			</div>
+		</div>
+	</div>
+	</div>
+	<div class="container" style="text-align: center">
+		<div class="row">
+			<div class="col-lg-3">
+				<div style="background-image: url('https://i.ndtvimg.com/i/2015-07/appetizers-625_625x350_41436947402.jpg'); background-repeat: no-repeat;background-position: center;width: 100%; height: 300px;">	
+					<h2 style="color: white"><br><br><br><br><br><br>STARTERS</h2>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div style="background-image: url('https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mon-nuong-moi-la.jpg'); background-repeat: no-repeat;background-position: center;width: 100%; height: 300px; ">	
+					<h2 style="color: white"><br><br><br><br><br><br>MAIN COURSES</h2>
+				</div>
+			</div>
+			<div class="col-lg-3">
+				<div style="background-image: url('https://cdn.tgdd.vn/Files/2020/05/30/1259448/cach-phan-biet-banh-muffin-va-banh-cupcake-4.jpg'); background-repeat: no-repeat;background-position: center;width: 100%; height: 300px; ">	
+					<h2 style="color: white"><br><br><br><br><br><br>DESSERTS</h2>
+				</div>
+			</div>
+			<div class="col-lg-3" >
+				<div style="background-image: url('https://sanhvang.com/wp-content/uploads/2019/08/tim-hieu-tong-quan-ruou-vang-chile.jpg'); background-repeat: no-repeat;background-position: center;width: 100%; height: 300px; ">	
+					<h2 style="color: white"><br><br><br><br><br><br>KOSHER WINE</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container"  >
+		<h1 style="text-align: center;"><br>A HAPPY CUSTOMER IS OUR CUSTOMER...</h1>
+		<div class="row" style="text-align: left">
+			<div class="col-sm-6">
+				<i class="text-secondary">
+					While I'm not Jewish and I was never aware of what constistules Kosher food, my fist dinner at a Kosher place chaged my mind completely! This philosophy is so vegan-Friendly!
+				</i>
+				<hr>
+				<h6>Sam</h6>
+				<P class="text-secondary" style="font-size: 10px;">posted on, TripAdvisor</P>
+			</div>
+			<div class="col-sm-6">
+				<i class="text-secondary">
+					When my good old friend referred me to this Kosher restaurant, I was doubtful at firts. But learning more about these traditions and tasting the food made mea huge fan of that!</i>
+				<hr>
+				<h6>Leah</h6>
+				<p class="text-secondary" style="font-size: 10px;">posted on, Foursquare</p>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<img class="img-fluid" src="https://duhocact.com/images/content/Dau_bep.jpg" alt="Chania" width= "100%"; height="100%">		
+			</div>
+			<div class="col-sm-6" >
+				<h2>WELCOME TO THE MIZARAHI</h2>
+				<span style='font-size:50px;color:green;'>&#8523;</span>
+				<h6>Are you looking to enjoy a truly Kosher dinner with your family or friend?</h6>
+				<p class="text-secondary" style="font-size: 15px;">If so, come visit our tranditionally Israeli meu range, enticed by the best Israeli dishes and drinks, enhanced by the top-grade quality of food ingredientsand ceremonial cooking techniques!</p>
+				<br><br><br>
+				<button type="button" class="btn btn-outline-success">ABOUT US</button>
+			</div>
+			<div class="col-sm-6">
+				<h2>INTERIOR</h2>
+				<span style='font-size:50px;color:green;'>&#8523;</span>
+				<h6>Do you value relaxing, friendly atmosphere? Our interior wil sway your mod! </h6>
+				<p class="text-secondary" style="font-size: 15px;">The Mizrahi restaurant offers a cozy, home-like atmosphere, that reminds one about tranditional Jewish family dinner times!</p>
+				<br><br><br>
+				<button type="button" class="btn btn-outline-success">ABOUT US</button>
+			</div>
+			<div class="col-sm-6" >
+				<img class="img-fluid" src="https://imagesfb.tintuc.vn/upload/images/tphcm/20180308/nha-hang-sg10.jpg" alt="Chania" width= "100%"; height="100%" > 	
+			</div>		
+		</div>
+	</div>
+	<div class="container  p-3 my-3 btn-light text:dark">
+		<div class="row">
+			<div class="col">
+				<br>
+				<p class="text-secondary" style="font-size: 10px;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ISRAELI KOSHER DISHES & WINE</p>
+				<h2>&emsp;&emsp;&emsp;MIZRAHI</h2>
+				<p class="text-secondary" style="font-size: 10px;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;The best Kosher Israeli restaurant in the neighborhood, Michelin &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;offers you a wide range of Kosher dishes and tranditional <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Israeli drinks! </p>
+			</div>
+			<div class="col-sm-3">
+				<h2><br>Contact us</h2>
+			    <p class="text-secondary"style="font-size: 10px;"><i style='font-size:12px;float: left;color: green;' class='fas'>&#xf3c5;</i>&nbsp;6087 Richmond hwy, Alexandria, VA</p>   
+			    <p class="text-secondary"style="color: green;font-size: 10px;"><i style='font-size:12px;float: left;color: green;' class='fas'>&#xf2a0;</i>&nbsp;703 329 0632</p> 
+			    <p style="color: green;font-size: 10px;"><i style='font-size:12px; float: left;color: green;' class='fas'>&#xf0e0;</i> &nbsp;info@demolink.org</p>
+			</div>
+			<div class="col">
+				<h2><br>Opening hours</h2>
+				<p class="text-secondary"style="font-size: 10px;"><i style='font-size:12px;float: left;color: green;' class='fas'>&#xf017;</i>&nbsp;Mo-Fr 11:00-00:00</p> 
+				<p class="text-secondary"style="font-size: 10px;"><i style='font-size:12px;float: left;color: green;' class='fas'>&#xf017;</i>&nbsp;Sa-Su 15:00-00:00</p> 
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+						
